@@ -1,0 +1,37 @@
+
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  .banner {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .filmes-em-destaque {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+  }
+  
+  .filme {
+    text-align: center;
+    width: 45%;
+    margin-bottom: 3px;
+  
+  }
+
+  .filme img{
+    margin-right: 100px;
+    width: 300px;
+    height: 420px;
+    margin-left: 100px;
+  }
+
+  
